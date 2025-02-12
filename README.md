@@ -14,7 +14,35 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 👨‍💻 Projects:
+- **Web Automation**: Automated UI checks using Selenium, Python, and PyYAML.
+- **Text & Link Parser**: Built a tool to extract links and text from over 1000 files, storing the results in Excel.
+- **Client-Server Voice Command System**: Developed a client-server architecture using Flask and React that accepts voice commands.
 
+### 💼 Previous Experience:
+- **Granite River Labs Technologies (GRL Technologies)**: Worked as a Summer Intern on a web testing automation project using Python Selenium.
+
+###
+<h2 align="left">🌐 Socials:</h2>
+
+###
+<div align="left">
+  <a href="saipreeth09@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/preethims15" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <a href="https://www.instagram.com/pree.thhii/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/pm2713" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
+  </a>
+</div>
+
+###
 
 ###
 
